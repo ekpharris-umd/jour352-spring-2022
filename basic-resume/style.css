@@ -6,11 +6,15 @@ body {
 }
 
 /*this my name*/
-h1 {
+#name {
 	font-size: 3em;
 	color: #33485e;
 	text-transform: uppercase;
 	text-align: center;
+	border-bottom: 1px solid #33485e;
+	width: 60%;
+	min-width: 300px;
+	margin:  0 auto;
 }
 
 img {
