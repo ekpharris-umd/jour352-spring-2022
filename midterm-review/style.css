@@ -1,0 +1,35 @@
+#content {
+	margin: 0 auto;
+	width: 900px;
+}
+
+#masthead {
+	position: relative;
+  	text-align: center;
+  	color: white;
+}
+
+#centered {
+	color: white;
+  	position: absolute;
+  	top: 50%;
+  	left: 50%;
+  	transform: translate(-50%, -50%);
+  	font-size: 3em;
+  }
+
+
+p {
+	font-family: "Open Sans", sans-serif;
+}
+
+h1 {
+	font-family: Georgia, serif;
+}
+
+blockquote {
+	font-size: 2em;
+	color: white;
+	background-color: black;
+	padding: 5px;
+}
