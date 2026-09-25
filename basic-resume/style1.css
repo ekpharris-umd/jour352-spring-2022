@@ -5,7 +5,7 @@ h2 {
     font-size: 2em;
 }
 
-p {
+p.target {
     font-family: "Fira Sans", sans-serif;
     font-weight: 100;
     font-size: 1em;
