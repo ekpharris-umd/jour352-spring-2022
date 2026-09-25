@@ -2,4 +2,11 @@ h2 {
     font-family: "Fira Sans", sans-serif;
     font-weight: 800;
     color:blueviolet;
+    font-size: 2em;
+}
+
+p {
+    font-family: "Fira Sans", sans-serif;
+    font-weight: 100;
+    font-size: 1em;
 }
